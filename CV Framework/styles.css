@@ -1,0 +1,21 @@
+body {
+	background-color:#121212FF;
+}
+.banner {
+	color:#BD0000FF;
+	position:absolute;
+	font-weight:bold;
+	font-size:15px;
+}
+.banner.left {
+	top:3em;
+	left:1%;
+}
+.banner.middle{
+	top:3em;
+	left: 42%;
+}
+.banner.right {
+	top:3em;
+	right:1%;
+}
